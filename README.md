@@ -30,7 +30,7 @@ O projeto consiste atualmente em três páginas:
 
 ### Nota sobre os links do Freepik no Footer
 
-Foi utilizado tanto os links individuais, que é fornecido na hora do download, quanto o link do site na documentação da licença e apesar de estar sem erros de sintaxe/digitação ainda assim o redirecionamento retorna uma tela com o erro 403 Forbidden. O link foi mantido conforme a documentação da licença, então não se preocupem.
+Foi utilizado tanto os links individuais, que é fornecido na hora do download, quanto o link do site na documentação da licença e apesar de estar sem erros de sintaxe/digitação ainda assim o redirecionamento retorna uma tela com o erro 403 Forbidden. Testei o link fora do projeto e todas as vezes funcionou, aparentemente é algo do mobirise que está impedindo de redirecionar para o Freepik. O link foi mantido conforme a documentação da licença, então não se preocupem.
 
 
 ## Alterações e Upgrades
