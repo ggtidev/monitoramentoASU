@@ -1084,12 +1084,11 @@ a {
 .cid-tRUpmuo5FK P {
   text-align: center;
 }
-.cid-tSet5UZXuF {
-  z-index: 1000;
-  width: 100%;
+.cid-tSet5UZXuF .navbar-dropdown {
+  position: relative !important;
 }
-.cid-tSet5UZXuF nav.navbar {
-  position: fixed;
+.cid-tSet5UZXuF .navbar-dropdown {
+  position: absolute !important;
 }
 .cid-tSet5UZXuF .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1413,7 +1412,6 @@ a {
 }
 .cid-tSet5UZXuF .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-tSet5UZXuF a.nav-link {
   display: flex;
